@@ -10,3 +10,4 @@ else:
     sleep(4)
     print('old process')
 print('test over')
+print('第二种方法')
